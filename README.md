@@ -1,6 +1,7 @@
 # 📊 Power BI Project: Facebook & Instagram Social Media Analysis
   <p><em>Interactive Power BI Dashboard for Facebook & Instagram Performance Analysis</em></p>
 </div>
+![Dashboard](https://github.com/hamzacharrad29-png/Power-BI-Project-Facebook-Instagram-Social-Media-Analysis/blob/510466c7233fc5f343bb0348e30911d91da5eabf/Screenshot%20power%20bi%20.png)
 
 ---
 
@@ -203,9 +204,6 @@ As my first Power BI project, this experience helped me develop practical skills
 This project significantly improved my understanding of how analytics can support business decision-making.
 
 ---
-##  Dashboard 
-
-![Dashboard](https://github.com/hamzacharrad29-png/Power-BI-Project-Facebook-Instagram-Social-Media-Analysis/blob/510466c7233fc5f343bb0348e30911d91da5eabf/Screenshot%20power%20bi%20.png)
 
 
 
