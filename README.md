@@ -1,7 +1,7 @@
 # 📊 Power BI Project: Facebook & Instagram Social Media Analysis
   <p><em>Interactive Power BI Dashboard for Facebook & Instagram Performance Analysis</em></p>
 </div>
-![Dashboard](https://github.com/hamzacharrad29-png/Power-BI-Project-Facebook-Instagram-Social-Media-Analysis/blob/f16b7dbfb0ebf536be67e88fd54592765b6f9b0e/Screenshot%20power%20bi%20.png)
+![Dashboard](https://raw.githubusercontent.com/hamzacharrad29-png/Power-BI-Project-Facebook-Instagram-Social-Media-Analysis/f16b7dbfb0ebf536be67e88fd54592765b6f9b0e/Screenshot%20power%20bi%20.png)
 
 ---
 
