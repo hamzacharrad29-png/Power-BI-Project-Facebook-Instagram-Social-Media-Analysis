@@ -208,7 +208,7 @@ This project significantly improved my understanding of how analytics can suppor
 ---
 ##  Dashboard Visualizations
 
-![Dashboard](https://github.com/hamzacharrad29-png/Time-Series-Analysis-and-Forecasting-for-a-comapny-/blob/578a26c528d9a9df1240eaf316f7c5b175064d7f/price%20evolution%20and%20decomposition%20.png))
+![Dashboard](https://github.com/hamzacharrad29-png/Power-BI-Project-Facebook-Instagram-Social-Media-Analysis/blob/510466c7233fc5f343bb0348e30911d91da5eabf/Screenshot%20power%20bi%20.png))
 
 
 
