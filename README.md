@@ -208,7 +208,7 @@ This project significantly improved my understanding of how analytics can suppor
 ---
 ##  Dashboard 
 
-![Dashboard](https://github.com/hamzacharrad29-png/Power-BI-Project-Facebook-Instagram-Social-Media-Analysis/blob/510466c7233fc5f343bb0348e30911d91da5eabf/Screenshot%20power%20bi%20.png))
+![Dashboard](https://github.com/hamzacharrad29-png/Power-BI-Project-Facebook-Instagram-Social-Media-Analysis/blob/510466c7233fc5f343bb0348e30911d91da5eabf/Screenshot%20power%20bi%20.png)
 
 
 
